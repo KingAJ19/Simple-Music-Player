@@ -43,10 +43,10 @@ const songsList = [
     image: "/images/covers/a lot.jpg",
   },
   {
-    name: "Throne",
-    link: "throne.mp3",
-    artist: "Rival",
-    image: "throne.jpg",
+    name: "Adore You",
+    link: "/audios/Adore You.mp3",
+    artist: "Harry Styles",
+    image: "/images/covers/adore you.jpg",
   },
   {
     name: "Need You Now",
