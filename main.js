@@ -394,7 +394,7 @@ const songsList = [
     name: "The World Is Yours",
     link: "/audios/The World Is Yours.mp3",
     artist: "Nas",
-    image: "/images/covers/the world is yours.jpg",
+    image: "/images/covers/nas.jpg",
   },
   {
     name: "Tribe",
