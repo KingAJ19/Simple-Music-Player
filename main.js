@@ -37,10 +37,10 @@ const songsList = [
     image: "/images/covers/7 minute drill.jpg",
   },
   {
-    name: "On & On",
-    link: "on-on.mp3",
-    artist: "Cartoon",
-    image: "on-on.jpg",
+    name: "a lot",
+    link: "/audios/a lot.mp3",
+    artist: "21 Savage",
+    image: "/images/covers/a lot.jpg",
   },
   {
     name: "Throne",
