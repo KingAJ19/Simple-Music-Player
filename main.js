@@ -25,10 +25,10 @@ let loop = true;
 
 const songsList = [
   {
-    name: "Make Me Move",
-    link: "make-me-move.mp3",
-    artist: "Culture Code",
-    image: "make-me-move.jpg",
+    name: "Mob Ties",
+    link: "/audios/Mob Ties.mp3",
+    artist: "Drake",
+    image: "/images/covers/mob ties.jpg",
   },
   {
     name: "Where We Started",
