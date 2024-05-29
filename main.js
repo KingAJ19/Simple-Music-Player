@@ -31,10 +31,10 @@ const songsList = [
     image: "/images/covers/mob ties.jpg",
   },
   {
-    name: "Where We Started",
-    link: "where-we-started.mp3",
-    artist: "Lost Sky",
-    image: "where-we-started.jpg",
+    name: "7 Minute Drill",
+    link: "/audios/7 minute drill.mp3",
+    artist: "J Cole",
+    image: "/images/covers/7 minute drill.jpg",
   },
   {
     name: "On & On",
